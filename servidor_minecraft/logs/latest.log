@@ -1,85 +1,28 @@
-[01:08:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:08:07] [ServerMain/INFO]: Loaded 1290 recipes
-[01:08:08] [ServerMain/INFO]: Loaded 1399 advancements
-[01:08:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:08:09] [Server thread/INFO]: Loading properties
-[01:08:09] [Server thread/INFO]: Default game type: SURVIVAL
-[01:08:09] [Server thread/INFO]: Generating keypair
-[01:08:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:08:10] [Server thread/INFO]: Using epoll channel type
-[01:08:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:08:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:08:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:08:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:08:10] [Server thread/INFO]: Preparing level "world"
-[01:08:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:08:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[01:08:25] [Server thread/INFO]: Time elapsed: 1703 ms
-[01:08:25] [Server thread/INFO]: Done (15.522s)! For help, type "help"
-[01:08:32] [Server thread/INFO]: Ner0cide[/127.2.216.198:39831] logged in with entity id 19 at (65.5, 93.0, 22.5)
-[01:08:32] [Server thread/INFO]: Ner0cide joined the game
-[01:08:35] [Server thread/INFO]: Gaboooo[/127.120.132.18:58921] logged in with entity id 94 at (97.45119568740947, 72.0, 113.58284497817095)
-[01:08:35] [Server thread/INFO]: Gaboooo joined the game
-[01:08:50] [Server thread/INFO]: [Gaboooo: Set own game mode to Survival Mode]
-[01:09:05] [Server thread/INFO]: Gaboooo was killed
-[01:09:05] [Server thread/INFO]: [Gaboooo: Killed Gaboooo]
-[01:09:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=66, y=92, z=25}
-[01:09:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=66, y=91, z=26}
-[01:09:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=66, y=91, z=26}
-[01:09:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=69, y=90, z=26}
-[01:09:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=69, y=91, z=25}
-[01:09:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=68, y=92, z=22}
-[01:09:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=68, y=92, z=22}
-[01:09:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=67, y=92, z=22}
-[01:09:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=67, y=92, z=22}
-[01:09:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=66, y=92, z=22}
-[01:09:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=66, y=92, z=21}
-[01:09:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=66, y=92, z=21}
-[01:09:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=67, y=92, z=21}
-[01:09:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=69, y=70, z=38}
-[01:09:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=69, y=70, z=38}
-[01:09:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=69, y=70, z=38}
-[01:09:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=70, y=70, z=39}
-[01:09:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=70, y=70, z=39}
-[01:09:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=70, y=70, z=40}
-[01:09:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=70, y=70, z=38}
-[01:09:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=70, y=70, z=39}
-[01:09:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=70, y=70, z=39}
-[01:09:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=70, y=70, z=40}
-[01:10:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=38, y=69, z=8} jd{x=41, y=70, z=10}
-[01:10:28] [Server thread/INFO]: Ner0cide has made the advancement [Monster Hunter]
-[01:10:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=38, y=69, z=8} jd{x=41, y=71, z=17}
-[01:12:52] [Server thread/INFO]: Gaboooo has made the advancement [Stone Age]
-[01:12:57] [Server thread/INFO]: Ner0cide has made the advancement [Stone Age]
-[01:13:19] [Server thread/INFO]: Ner0cide has made the advancement [Getting an Upgrade]
-[01:15:35] [Server thread/INFO]: Gaboooo lost connection: Disconnected
-[01:15:35] [Server thread/INFO]: Gaboooo left the game
-[01:15:35] [Server thread/WARN]: handleDisconnection() called twice
-[01:15:45] [Server thread/INFO]: Gaboooo[/127.120.132.18:53929] logged in with entity id 2169 at (17.451209520377233, 78.0, 6.21192521245757)
-[01:15:45] [Server thread/INFO]: Gaboooo joined the game
-[01:16:10] [Server thread/INFO]: Gaboooo has made the advancement [Monster Hunter]
-[01:16:10] [Server thread/INFO]: Gaboooo was blown up by Creeper
-[01:21:22] [Server thread/INFO]: Gaboooo has made the advancement [Getting an Upgrade]
-[01:21:51] [Server thread/INFO]: Ner0cide has made the advancement [A Seedy Place]
-[01:23:40] [Server thread/INFO]: Ner0cide lost connection: Disconnected
-[01:23:40] [Server thread/INFO]: Ner0cide left the game
-[01:23:42] [Server thread/INFO]: Ner0cide (/127.2.216.198:34321) lost connection: Disconnected
-[01:23:54] [Server thread/INFO]: Ner0cide[/127.2.216.198:54469] logged in with entity id 5916 at (-2.5153822551747256, 42.0, 484.9420077605046)
-[01:23:54] [Server thread/INFO]: Ner0cide joined the game
-[01:24:56] [Server thread/WARN]: Gaboooo moved too quickly! 1.5282564058735915,0.6668000063657757,-10.40454268721566
-[01:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
-[01:25:09] [Server thread/INFO]: [Not Secure] <Ner0cide> 0 32 512
-[01:27:49] [Server thread/INFO]: Gaboooo has made the advancement [Sweet Dreams]
-[01:29:45] [Server thread/INFO]: [Gaboooo: The difficulty has been set to Hard]
-[01:29:58] [Server thread/INFO]: Gaboooo was doomed to fall by Skeleton
-[01:32:16] [Server thread/INFO]: Ner0cide has made the advancement [Acquire Hardware]
-[01:33:27] [Server thread/INFO]: Ner0cide has made the advancement [Suit Up]
-[01:33:40] [Server thread/INFO]: Gaboooo lost connection: Disconnected
-[01:33:40] [Server thread/INFO]: Gaboooo left the game
-[01:33:47] [Server thread/INFO]: Gaboooo[/127.120.132.18:33753] logged in with entity id 10366 at (-12.300000011920929, 58.0, 560.423751579664)
-[01:33:47] [Server thread/INFO]: Gaboooo joined the game
-[01:34:13] [Server thread/INFO]: Ner0cide has made the advancement [Isn't It Iron Pick]
-[01:34:24] [Server thread/INFO]: Ner0cide has made the advancement [Not Today, Thank You]
+[01:46:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:46:37] [ServerMain/INFO]: Loaded 1290 recipes
+[01:46:38] [ServerMain/INFO]: Loaded 1399 advancements
+[01:46:38] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:46:38] [Server thread/INFO]: Loading properties
+[01:46:38] [Server thread/INFO]: Default game type: SURVIVAL
+[01:46:38] [Server thread/INFO]: Generating keypair
+[01:46:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:46:39] [Server thread/INFO]: Using epoll channel type
+[01:46:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:46:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:46:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:46:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:46:39] [Server thread/INFO]: Preparing level "world"
+[01:46:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:46:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:46:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:46:46] [Server thread/INFO]: Time elapsed: 766 ms
+[01:46:46] [Server thread/INFO]: Done (7.272s)! For help, type "help"
+[01:48:02] [Server thread/INFO]: Gaboooo[/127.120.132.18:39175] logged in with entity id 4 at (11.361972719789755, 65.0, 333.24942853792476)
+[01:48:02] [Server thread/INFO]: Gaboooo joined the game
+[01:48:06] [Server thread/INFO]: Gaboooo burned to death
+[01:48:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:48:06] [Server thread/INFO]: ijo de puta<--[HERE]
+[01:48:19] [Server thread/INFO]: Ner0cide[/127.2.216.198:60053] logged in with entity id 499 at (13.083360483834682, 69.0, 401.6022977976186)
+[01:48:19] [Server thread/INFO]: Ner0cide joined the game
+[01:53:51] [Server thread/INFO]: Gaboooo has made the advancement [Suit Up]
+[01:53:51] [Server thread/INFO]: Gaboooo has made the advancement [Isn't It Iron Pick]
