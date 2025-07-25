@@ -1,0 +1,23 @@
+{
+  "sptwTimeStopDuration": 340,
+  "twTimeStopDuration": 350,
+  "stwTimeStopDuration": 340,
+  "twohTimeStopDuration": 1000,
+  "mihTimeAccelerationDuration": 1700,
+  "killVampirism": false,
+  "healthToDamageScaling": true,
+  "vsStandlessDamageMultiplier": 1.5,
+  "damageScalingMinimum": 0.4,
+  "scalingPenaltyPerHit": 0.02,
+  "enableMoveCooldowns": false,
+  "cooldownMultiplier": 1.0,
+  "enableIPS": false,
+  "enableFriendlyFire": false,
+  "reduceDeadlyExplosions": true,
+  "disableCombatElytra": true,
+  "miningBarrage": true,
+  "meteorSpawnRate": 0.02,
+  "exclusiveStands": false,
+  "standUserSight": false,
+  "spawnerStands": false
+}
